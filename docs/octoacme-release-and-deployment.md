@@ -14,6 +14,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Documentation complete and reviewed by Technical Writer
+- Support preparation reviewed by Customer Support Liaison
+- UX/UI review (if user-facing)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -22,6 +25,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Documentation published and user guides updated
+- [ ] Customer support notified
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

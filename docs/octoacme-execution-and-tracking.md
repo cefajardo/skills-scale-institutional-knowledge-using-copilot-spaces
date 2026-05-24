@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Documentation reviewed and updated by Technical Writer
+- Design implementation reviewed by UX/UI Designer (for relevant features)
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Documentation updated for new features
+- [ ] Customer Support Liaison informed of release/test changes (if customer-impacting)
