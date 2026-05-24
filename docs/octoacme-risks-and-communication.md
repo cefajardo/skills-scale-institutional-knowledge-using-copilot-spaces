@@ -9,7 +9,7 @@ Maintain a simple table with:
 - Description
 - Impact (High/Med/Low)
 - Likelihood (High/Med/Low)
-- Owner
+- Owner. Technical Writer or DevOps Engineer may be owner for documentation/deployment risks
 - Mitigation plan
 - Status
 
@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Customer Support Liaison ensures communication to end users/support teams
 
 ## Communication Templates
 Weekly Status Template:
@@ -36,6 +37,7 @@ Incident Communication
 - Actions being taken
 - Expected timeline
 - Post-incident blameless retrospective scheduled
+- Technical Writer to document the incident summary and postmortem (if needed)
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
